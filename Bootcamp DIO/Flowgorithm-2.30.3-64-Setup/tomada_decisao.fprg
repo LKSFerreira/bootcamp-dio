@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Lucas Ferreira"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-12 04:56:45 "/>
+        <attribute name="created" value="THVjYXMgRmVycmVpcmE7REVTS1RPUC1KMEhKMzFGOzIwMjItMDQtMTI7IjA0OjQ3OjQxICI7MzU2MQ=="/>
+        <attribute name="edited" value="THVjYXMgRmVycmVpcmE7REVTS1RPUC1KMEhKMzFGOzIwMjItMDQtMTI7IjA0OjU2OjQ1ICI7MTszNjcz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="janeiro, fevereiro, marco, media" type="Real" array="False" size=""/>
+            <output expression="&quot;Forneca os valores das vendas dos meses de Janeiro, Fevereiro e Marco.&quot;" newline="True"/>
+            <input variable="janeiro"/>
+            <input variable="fevereiro"/>
+            <input variable="marco"/>
+            <assign variable="media" expression="(janeiro + fevereiro + marco)/3"/>
+            <if expression="media &gt; 3000">
+                <then>
+                    <output expression="&quot;Parabn&#233;s por atigir a meta, voc&#234; receber&#225; um bonus de 5%.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Infelizmente voc&#234; n&#227;o atingiu a meta, seu bonus ser&#225; de 3%.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
