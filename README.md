@@ -12,6 +12,8 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 [04 - Projetos ágeis com SCRUM](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/04%20-%20Projetos%20%C3%A1geis%20com%20SCRUM.pdf)
 
+[05 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](05%-%Criando%seu%Primeiro%Repositório%no%GitHub%Para%Compartilhar%Seu%Progresso.pdf)
+
 ### Meu projetos
 [Projeto em Fluxograma](https://github.com/LKSFerreira/bootcamp-dio/tree/main/flowgorithm)
 
