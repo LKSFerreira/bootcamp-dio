@@ -6,17 +6,17 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 #### Certificados
 
-[01 - Boas-vindas ao boootcamp orbi web games developer](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/01%20-%20Boas-vindas%20ao%20boootcamp%20orbi%20web%20games%20developer.pdf)
+[01 - Boas-vindas ao boootcamp orbi web games developer](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/01_Boas-vindas_ao_boootcamp_orbi_web_games_developer.pdf)
 
-[02 - Pensamento Computacional](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/02%20-%20Pensamento%20Computacional.pdf)
+[02 - Pensamento Computacional](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/02_Pensamento_Computacional.pdf)
 
-[03 - Lógica de Programação Essencial](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/03%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial.pdf)
+[03 - Lógica de Programação Essencial](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/03_Lógica_de_Programação_Essencial.pdf)
 
-[04 - Projetos ágeis com SCRUM](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/04%20-%20Projetos%20%C3%A1geis%20com%20SCRUM.pdf)
+[04 - Projetos ágeis com SCRUM](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/04_Projetos_ageis_com_SCRUM.pdf)
 
-[05 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/05%-%Criando%seu%Primeiro%Repositório%no%GitHub%Para%Compartilhar%Seu%Progresso.pdf)
+[05 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/05_Criando_seu_Primeiro_Repositorio_no_GitHub_Para_Compartilhar_Seu_Progresso.pdf)
 
-[06 - Primeiros passos para desenvolvimento web](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/06%-%Primeiros%passos%para%desenvolvimento%web.pdf)
+[06 - Primeiros passos para desenvolvimento web](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/06_Primeiros_passos_para_desenvolvimento_web.pdf)
 
 ### Meu projetos
 
