@@ -19,6 +19,9 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 [06 - Primeiros passos para desenvolvimento web](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/06_Primeiros_passos_para_desenvolvimento_web.pdf)
 
 [07 - Introdução a criação de websites com HTML5 e CSS3](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/07_introducao_a_criacao_de_websites_com_html5_e_css3.pdf)
+
+[08 - Construindo páginas para internet com Bootstrap](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/08_construindo_paginas_para_internet_com_bootstrap.pdf)
+
 ### Meu projetos
 
 [Projeto em Fluxograma](https://github.com/LKSFerreira/bootcamp-dio/tree/main/flowgorithm)
