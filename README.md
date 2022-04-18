@@ -26,6 +26,8 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 [10 - Debugging e Error Handling](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/10_debugging_e_error_handling.pdf)
 
+[11 - Javascript Assíncrono](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/11_javascript_assincrono.pdf)
+
 ### Meu projetos
 
 [Projeto em Fluxograma](https://github.com/LKSFerreira/bootcamp-dio/tree/main/flowgorithm)
