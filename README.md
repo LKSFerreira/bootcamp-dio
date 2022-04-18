@@ -22,6 +22,8 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 [08 - Construindo páginas para internet com Bootstrap](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/08_construindo_paginas_para_internet_com_bootstrap.pdf)
 
+[09 - Coleções](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/09_colecoes.pdf)
+
 ### Meu projetos
 
 [Projeto em Fluxograma](https://github.com/LKSFerreira/bootcamp-dio/tree/main/flowgorithm)
