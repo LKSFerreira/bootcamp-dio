@@ -27,7 +27,12 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 [10 - Debugging e Error Handling](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/10_debugging_e_error_handling.pdf)
 
 [11 - Javascript Assíncrono](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/11_javascript_assincrono.pdf)
+
 [12 - Orientação a objetos](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/12_orientacao_a_objetos.pdf)
+
+[13 - Map, Filter e Reduce](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/13_map_filter_e_reduce.pdf)
+
+[14 - Manipulando a D.O.M. com JavaScript](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/14_manipulando_a_dom_com_javascript)
 
 ### Meu projetos
 
