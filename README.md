@@ -34,6 +34,8 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 [14 - Manipulando a D.O.M. com JavaScript](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/14_manipulando_a_dom_com_javascript)
 
+[15 - Resolvendo Desafios de Código em JavaScript](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/15_resolvendo_desafios_de_codigo.pdf)
+
 ### Meu projetos
 
 [Projeto em Fluxograma](https://github.com/LKSFerreira/bootcamp-dio/tree/main/flowgorithm)
