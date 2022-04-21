@@ -1,5 +1,14 @@
-let limit = parseInt(gets());
-for (let i = 0; i < limit; i++) {
+var eventos = [];
+
+eventos.push(parseInt(prompt("Quantas coxinhas foram consumidas no evento?")));
+eventos.push(parseInt(prompt("Qual o total de participates?")));
+
+var media = (eventos[0]/eventos[1]);
+
+console.log(media);
+
+
+for (let i = 0; i < 2; i++) {
     let line = gets().split(" ");
     let X = parseInt(line[0]);
     let Y = parseInt(line[1]);
@@ -10,3 +19,4 @@ for (let i = 0; i < limit; i++) {
         console.log(divisao);
     }
 }
+
