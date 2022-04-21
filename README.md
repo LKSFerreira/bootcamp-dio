@@ -36,11 +36,16 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 [15 - Resolvendo Desafios de Código em JavaScript](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/15_resolvendo_desafios_de_codigo.pdf)
 
+[16 - Criando seu próprio jogo da velha com HTML e Javascript](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/16_criando_seu_proprio_jogo_da_velha_com_html_e_javascript.pdf)
+
+
 ### Meu projetos
 
 [Projeto em Fluxograma](https://github.com/LKSFerreira/bootcamp-dio/tree/main/flowgorithm)
 
 [Projeto em Portugol](https://github.com/LKSFerreira/bootcamp-dio/tree/main/portugol-web)
+
+[Projeto Jogo da Velha](https://lksferreira.github.io/bootcamp-dio/)
 
 
 Obrigado, Atenciosamente
