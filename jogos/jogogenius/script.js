@@ -29,11 +29,13 @@ let lightColor = (element, number) => {
     number = number * 500;
     setTimeout(() => {
         element.classList.add("selected");
+        
     }, number - 250);
 
-    setTimeout(() => {
-        element.classList.remove("selected");
-    });
+    setTimeout(() => {        
+        element.classList.remove('selected');
+        //alert("Deveria remover depos disso");
+    }, number);
 
 }
 
@@ -60,7 +62,7 @@ let clica = (color) => {
     setTimeout(() => {
         createColorElementor(color).classList.remove("selected");
         checaOrdem();
-    },250);
+    }, 250);
 
 }
 
@@ -86,6 +88,7 @@ let gameOver = () => {
     alert("Pontuação: " + score + "\nVoce errou!\nClique em OK para iniciar um novo jogo");
     order = [];
     clickedOrder = [];
+    score = 0;
 
     playGame();
 }
