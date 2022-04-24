@@ -1,0 +1,11 @@
+***** js.js *****
+
+
+
+***** js.js *****
+
+if (topo>=434) {	
+	$("#jogador").css("top",topo-10);
+		
+}
+

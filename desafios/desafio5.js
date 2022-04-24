@@ -59,7 +59,6 @@ if (matricula != 0) {
     console.log("Minimum note not reached");
 }
 
-
 /*
 let aluno = gets();
 let matricula = [];
