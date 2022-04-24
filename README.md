@@ -38,6 +38,8 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 [16 - Criando seu próprio jogo da velha com HTML e Javascript](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/16_criando_seu_proprio_jogo_da_velha_com_html_e_javascript.pdf)
 
+[17 - Construindo o seu primeiro jogo de naves](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/17_construindo_o_eu_primeiro_jogo_de_naves.pdf)
+
 
 ### Meu projetos
 
