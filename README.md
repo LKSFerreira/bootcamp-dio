@@ -40,6 +40,8 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 [17 - Construindo o seu primeiro jogo de naves](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/17_construindo_o_eu_primeiro_jogo_de_naves.pdf)
 
+[18 - Criando seu jogo de memória estilo Genius](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/18_criando_seu_jogo_de_memoria_estilo_genius.pdf)
+
 
 ### Meu projetos
 
