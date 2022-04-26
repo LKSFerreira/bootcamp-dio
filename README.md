@@ -50,11 +50,13 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 </details>
 
 <details>
-    <summary> ### Meus bootcamps </summary>
+    <summary>
+    ### Meus bootcamps
+    </summary>
 
 [Bootcamp Dio - Órbi Web Games Developer](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/bootcamps/01_orbi_web_games_developer.pdf)
 
-<details>
+</details>
 
 <details>
     <summary> ### Meus projetos </summary>
