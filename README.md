@@ -59,7 +59,7 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 </details>
 
 <details>
-    <summary> ### Meus projetos </summary>
+    <summary>[Meus projetos]</summary>
 
 [Projeto em Fluxograma](https://github.com/LKSFerreira/bootcamp-dio/tree/main/flowgorithm)
 
