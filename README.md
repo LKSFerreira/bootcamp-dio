@@ -66,11 +66,15 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 [Projeto Jogo Genius](https://lksferreira.github.io/bootcamp-dio/)
 
 <details>
-    <summary>Link Web Portugol </summary>
-    [Calcula Tabuada](https://portugol-webstudio.cubos.io/ide#share=52649)
+    <summary>Link Web Portugol</summary>
+
+[Calcula Tabuada](https://portugol-webstudio.cubos.io/ide#share=52649)
+
 </details>
 
 </deatails>
+
+
 
 
 
