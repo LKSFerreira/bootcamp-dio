@@ -62,7 +62,11 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 [Projeto em Fluxograma](https://github.com/LKSFerreira/bootcamp-dio/tree/main/flowgorithm)
 
 [Projeto em Portugol](https://github.com/LKSFerreira/bootcamp-dio/tree/main/portugol-web)
-
+    <datails>
+        <summary>Link Web Portugol </summary>
+        [Calcula Tabuada](https://portugol-webstudio.cubos.io/ide#share=52649)
+    </details>
+    
 [Projeto Jogo Genius](https://lksferreira.github.io/bootcamp-dio/)
 
 </deatails>
