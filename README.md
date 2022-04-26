@@ -5,7 +5,7 @@
 Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando pela DIO, sou muito grato a empressas que possui a visão de fornecer conteúdo de estudo, no qual posso agregar na construção da minha carreira como desenvolvedor apesar de não possuir um diploma tradicional de faculdade na area correlata.
 
 <details>
-    <summary> #### Certificados </summary>
+    <summary>Certificados</summary>
 
 [01 - Boas-vindas ao boootcamp orbi web games developer](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/cursos/01_Boas-vindas_ao_boootcamp_orbi_web_games_developer.pdf)
 
@@ -50,16 +50,14 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 </details>
 
 <details>
-    <summary>
-    ### Meus bootcamps
-    </summary>
+    <summary>Meus bootcamps</summary>
 
 [Bootcamp Dio - Órbi Web Games Developer](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/bootcamps/01_orbi_web_games_developer.pdf)
 
 </details>
 
 <details>
-    <summary>[Meus projetos]()</summary>
+    <summary>Meus projetos</summary>
 
 [Projeto em Fluxograma](https://github.com/LKSFerreira/bootcamp-dio/tree/main/flowgorithm)
 
