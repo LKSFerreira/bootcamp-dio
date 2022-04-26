@@ -42,6 +42,8 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 [18 - Criando seu jogo de memória estilo Genius](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/18_criando_seu_jogo_de_memoria_estilo_genius.pdf)
 
+[19 - Criando seu jogo no estilo Space Shooter](https://github.com/LKSFerreira/bootcamp-dio/blob/main/certificados/19_criando_seu_jogo_no_estilo_space_shooter.pdf)
+
 
 ### Meu projetos
 
@@ -49,7 +51,7 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 [Projeto em Portugol](https://github.com/LKSFerreira/bootcamp-dio/tree/main/portugol-web)
 
-[Projeto Jogo da Velha](https://lksferreira.github.io/bootcamp-dio/)
+[Projeto Jogo Genius](https://lksferreira.github.io/bootcamp-dio/)
 
 
 Obrigado, Atenciosamente
