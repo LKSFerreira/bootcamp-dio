@@ -1,14 +1,10 @@
 const dino = document.querySelector(".dino");
 const background = document.querySelector(".background");
+const pontuacao = document.querySelector(".pontuacao")
 let isJumping = false;
 let dificuldade = 7000;
 let yPosition = 0;
 let score = 0;
-
-const pontuacao = document.querySelector(".pontuacao")
-
-
-
 
 function handleKeyUp(event) {
     if (event.key === " ") {
@@ -62,12 +58,9 @@ function createCactus() {
     let xPosition = 1000;
     let tempoRandom = Math.random() * dificuldade;
 
-
     cactus.classList.add("cactus");
     cactus.style.left = 1000 + "px";
     background.appendChild(cactus);
-
-
 
     let letInterval = setInterval(() => {
 
@@ -82,10 +75,6 @@ function createCactus() {
             document.body.innerHTML = `'<h1 class="game-over">Fim de Jogo<br><br>Sua pontuação: ${score}<br><br>Clique aqui para jogar novamente</h1>'`;
             const reload = document.querySelector(".game-over");
             reload.addEventListener("click", restart);
-
-
-
-
         } else {
             xPosition -= 10;
             cactus.style.left = xPosition + "px";
@@ -103,7 +92,6 @@ function createCactus() {
     }, tempoRandom);
     console.log(dificuldade);
 }
-
 
 createCactus();
 document.addEventListener("keypress", handleKeyUp);
