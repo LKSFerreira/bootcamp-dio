@@ -22,7 +22,7 @@ body {
 .pontuacao {
     position: absolute;
     top: -400px;
-    left: 550px;
+    left: 500px;
     font-size: 50px;
     font-family: sans-serif;      
 }
