@@ -1,6 +1,6 @@
 const dino = document.querySelector(".dino");
 const background = document.querySelector(".background");
-const pontuacao = document.querySelector(".pontuacao")
+const pontuacao = document.querySelector(".pontuacao");
 let isJumping = false;
 let dificuldade = 7000;
 let yPosition = 0;
@@ -49,8 +49,9 @@ function calculaScore() {
     score += 123;
 
 }
-
-pontuacao.innerHTML = `Pontos: ${score}`;
+setInterval(() => {
+    pontuacao.innerHTML = `Pontos: ${score}`;
+}, 20);
 
 function createCactus() {
 
@@ -68,7 +69,6 @@ function createCactus() {
             clearInterval(letInterval);
             background.removeChild(cactus);
             calculaScore();
-            pontuacao.innerHTML = `Pontos: ${score}`;
         } else if (xPosition > 0 && xPosition < 60 && yPosition < 60) {
             //gameOver();
             clearInterval(letInterval);
