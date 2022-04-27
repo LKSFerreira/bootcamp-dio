@@ -3,6 +3,12 @@ const background = document.querySelector(".background");
 let isJumping = false;
 let dificuldade = 7000;
 let yPosition = 0;
+let score = 0;
+
+const pontuacao = document.querySelector(".pontuacao")
+
+
+
 
 function handleKeyUp(event) {
     if (event.key === " ") {
@@ -43,25 +49,37 @@ function restart() {
     location.reload();
 }
 
+function calculaScore() {
+    score += 123;
+
+}
+
+pontuacao.innerHTML = `Pontos: ${score}`;
+
 function createCactus() {
 
     const cactus = document.createElement("div");
     let xPosition = 1000;
     let tempoRandom = Math.random() * dificuldade;
 
+
     cactus.classList.add("cactus");
     cactus.style.left = 1000 + "px";
     background.appendChild(cactus);
+
+
 
     let letInterval = setInterval(() => {
 
         if (xPosition <= - 60) {
             clearInterval(letInterval);
             background.removeChild(cactus);
+            calculaScore();
+            pontuacao.innerHTML = `Pontos: ${score}`;
         } else if (xPosition > 0 && xPosition < 60 && yPosition < 60) {
             //gameOver();
             clearInterval(letInterval);
-            document.body.innerHTML = '<h1 class="game-over">Fim de Jogo<br><br>Clique aqui para jogar novamente</h1>';
+            document.body.innerHTML = `'<h1 class="game-over">Fim de Jogo<br><br>Sua pontuação: ${score}<br><br>Clique aqui para jogar novamente</h1>'`;
             const reload = document.querySelector(".game-over");
             reload.addEventListener("click", restart);
 
