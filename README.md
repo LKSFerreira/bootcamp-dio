@@ -18,7 +18,7 @@ Nunca imaginei encontrar cursos de alta qualidade como os que estou realizando p
 
 [Projeto em Portugol](https://github.com/LKSFerreira/bootcamp-dio/tree/main/portugol-web)
 
-[Projeto Jogo Genius](https://lksferreira.github.io/bootcamp-dio/)
+[Projeto Jogo Web](https://lksferreira.github.io/bootcamp-dio/)
 
 <details>
     <summary>Link Web Portugol</summary>
